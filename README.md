@@ -2,10 +2,11 @@
 I make random projects that usually turn into game engines, tools, systems, experiments, or something way bigger than planned. 😭
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-tarenolabs.space-0EA5E9?style=for-the-badge)](https://tarenolabs.space)
-[![GitHub](https://img.shields.io/badge/GitHub-darkresident55-181717?style=for-the-badge\&logo=github)](https://github.com/darkresident55)
-[![Modularity Engine](https://img.shields.io/badge/Modularity_Engine-Active-22C55E?style=for-the-badge\&logo=unity)](https://moduengine.xyz)
-[![Soft Chimp Locomotion](https://img.shields.io/badge/Soft_Chimp_Locomotion-VR_System-FF6B35?style=for-the-badge\&logo=unity)](https://github.com/darkresident55/Soft-Chimp-Locomotion)
+[![Tareno Labs](https://img.shields.io/badge/Website-tarenolabs.space-0EA5E9?style=for-the-badge)](https://tarenolabs.space)
+
+[![Modularity](https://img.shields.io/badge/Modularity_Engine-Active-22C55E?style=for-the-badge\&logo=unity)](https://moduengine.xyz)
+
+[![Soft Chimp Locomotion (SCL)](https://img.shields.io/badge/Soft_Chimp_Locomotion-VR_System-FF6B35?style=for-the-badge\&logo=unity)](https://github.com/darkresident55/Soft-Chimp-Locomotion)
 
 ---
 
