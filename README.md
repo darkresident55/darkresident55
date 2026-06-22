@@ -29,8 +29,7 @@ A Unity-based locomotion system made for VR projects.
 <img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/b1fed60d-0e1b-4434-b4f3-bd4045edaaf4" />
 
 Some other things I work on include:
-* Liquid OS
-* ModuCPP
-* Phasewear
-* The Waking Soul
-* Random experiments that somehow become real projects
+- Liquid OS
+- Phasewear DI
+- The Waking Soul
+- Random experiments that somehow become real projects
