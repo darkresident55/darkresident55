@@ -39,3 +39,8 @@ Some other things I work on include:
 
 - The Waking Soul (currently a WIP under the same development as Modularity, as it uses Modularity as its Engine backend)
 <img width="523" height="215" alt="image" src="https://github.com/user-attachments/assets/daa78bf3-683b-4100-b78d-35612e433349" />
+
+Images:
+<img width="797" height="645" alt="image" src="https://github.com/user-attachments/assets/5ad078db-1708-4658-a864-f19f33e29242" />
+<img width="839" height="679" alt="image" src="https://github.com/user-attachments/assets/678378d5-b1d1-4790-8b8c-75c0a3e3eeef" />
+<img width="1272" height="630" alt="image" src="https://github.com/user-attachments/assets/fddc2d74-1510-4012-8de6-a8e2850e5e12" />
