@@ -1,7 +1,7 @@
 # Hey there! I'm Anémunt.
 You may know me as the person who makes Random Projects, such as:
 
-https://github.com/darkresident55/darkresident55/blob/d261bcf930bb4a409e46819889e7bed2a5e0cd19/Modularity%20Logo%20Front%20image.png
+<img width="1918" height="1038" alt="image" src="https://github.com/user-attachments/assets/4fe7a9fa-f5c0-41f9-9889-c5b25fac7a93" />
 ([Modularity](https://moduengine.xyz/)),
 
 or other random projects
