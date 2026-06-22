@@ -29,7 +29,13 @@ A Unity-based locomotion system made for VR projects.
 <img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/b1fed60d-0e1b-4434-b4f3-bd4045edaaf4" />
 
 Some other things I work on include:
-- Liquid OS
-- Phasewear DI
-- The Waking Soul
-- Random experiments that somehow become real projects
+- Liquid OS (not currently Open Source just yet as it's unfinished)
+- Nexora DI (Unfinished and undertrained currently)
+
+- Phasewear DI (Released here!)
+<img width="1238" height="170" alt="image" src="https://github.com/user-attachments/assets/8ffcf78d-844c-45e0-80ae-bf3bdcf73293" />
+
+[![Visit](https://img.shields.io/badge/Visit-phasewear.xyz-3B82F6?style=for-the-badge)](https://phasewear.xyz/)
+
+- The Waking Soul (currently a WIP under the same development as Modularity, as it uses Modularity as its Engine backend)
+<img width="523" height="215" alt="image" src="https://github.com/user-attachments/assets/daa78bf3-683b-4100-b78d-35612e433349" />
