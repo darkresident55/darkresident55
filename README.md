@@ -5,7 +5,7 @@ I make random projects that usually turn into game engines, tools, systems, expe
 
 ---
 
-## Modularity Engine
+<img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/3d3e62cc-3afe-4abc-a58b-e1276a5222f1" />
 <img width="1918" height="1038" alt="Modularity Engine" src="https://github.com/user-attachments/assets/4fe7a9fa-f5c0-41f9-9889-c5b25fac7a93" />
 
 A modular game engine with a package-based system, giving developers full control over features, tools, and workflows.
@@ -15,8 +15,7 @@ A modular game engine with a package-based system, giving developers full contro
 > If the main website is blocked, you can directly access Modularity's package database instead.
 
 
-
-## Soft Chimp Locomotion
+<img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/db4858d1-c893-4d0e-912b-779f52ac9634" />
 <img width="838" height="564" alt="Soft Chimp Locomotion" src="https://github.com/user-attachments/assets/7759a97e-89d4-442b-82c0-f3e2d7e918ac" />
 
 A Unity-based locomotion system made for VR projects.
@@ -25,7 +24,7 @@ A Unity-based locomotion system made for VR projects.
 
 ---
 
-## Other Projects
+<img width="300" height="20" alt="image" src="https://github.com/user-attachments/assets/b1fed60d-0e1b-4434-b4f3-bd4045edaaf4" />
 Some other things I work on include:
 * Liquid OS
 * ModuCPP
