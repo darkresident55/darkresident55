@@ -11,8 +11,8 @@ I make random projects that usually turn into game engines, tools, systems, expe
 
 A modular game engine with a package-based system, giving developers full control over features, tools, and workflows.
 
-[![Visit Website](https://img.shields.io/badge/Visit-moduengine.xyz-22C55E?style=for-the-badge)](https://moduengine.xyz)
-[![Package Database](https://img.shields.io/badge/Database-pak.moduengine.xyz-3B82F6?style=for-the-badge)](https://pak.moduengine.xyz)
+[![Visit Website](https://img.shields.io/badge/moduengine.xyz-22C55E?style=for-the-badge)](https://moduengine.xyz)
+[![Package Database](https://img.shields.io/badge/pak.moduengine.xyz-3B82F6?style=for-the-badge)](https://pak.moduengine.xyz)
 
 (Note: If the main website is blocked, you can directly access Modularity's package database instead.)
 
