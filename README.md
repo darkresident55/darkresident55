@@ -22,7 +22,7 @@ A modular game engine with a package-based system, giving developers full contro
 
 A Unity-based locomotion system made for VR projects.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-Soft_Chimp_Locomotion-181717?style=for-the-badge\&logo=github)](https://github.com/darkresident55/Soft-Chimp-Locomotion)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/darkresident55/Soft-Chimp-Locomotion)
 
 ---
 
@@ -35,7 +35,7 @@ Some other things I work on include:
 - Phasewear DI (Released here!)
 <img width="1238" height="170" alt="image" src="https://github.com/user-attachments/assets/8ffcf78d-844c-45e0-80ae-bf3bdcf73293" />
 
-[![Visit](https://img.shields.io/badge/Visit-phasewear.xyz-3B82F6?style=for-the-badge)](https://phasewear.xyz/)
+[![Visit](https://img.shields.io/badge/phasewear.xyz-3B82F6?style=for-the-badge)](https://phasewear.xyz/)
 
 - The Waking Soul (currently a WIP under the same development as Modularity, as it uses Modularity as its Engine backend)
 <img width="523" height="215" alt="image" src="https://github.com/user-attachments/assets/daa78bf3-683b-4100-b78d-35612e433349" />
