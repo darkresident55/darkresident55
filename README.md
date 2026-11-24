@@ -44,3 +44,7 @@ Images:
 <img width="797" height="645" alt="image" src="https://github.com/user-attachments/assets/5ad078db-1708-4658-a864-f19f33e29242" />
 <img width="839" height="679" alt="image" src="https://github.com/user-attachments/assets/678378d5-b1d1-4790-8b8c-75c0a3e3eeef" />
 <img width="1272" height="630" alt="image" src="https://github.com/user-attachments/assets/fddc2d74-1510-4012-8de6-a8e2850e5e12" />
+
+- My Languages!
+<img src="https://github-readme-stats.vercel.app/api?username=AnimatedGTVR&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimatedGTVR&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" alt="Most used languages" />
