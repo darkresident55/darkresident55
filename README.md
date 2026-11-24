@@ -45,6 +45,14 @@ Images:
 <img width="839" height="679" alt="image" src="https://github.com/user-attachments/assets/678378d5-b1d1-4790-8b8c-75c0a3e3eeef" />
 <img width="1272" height="630" alt="image" src="https://github.com/user-attachments/assets/fddc2d74-1510-4012-8de6-a8e2850e5e12" />
 
-- My Languages!
-<img src="https://github-readme-stats.vercel.app/api?username=darkresident55&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkresident55&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" alt="Most used languages" />
+<h3>My Languages!</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=darkresident55&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkresident55&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
